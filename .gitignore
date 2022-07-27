@@ -1,0 +1,7 @@
+models/
+vids/
+vids_from_laptop/
+AudioCLIP/
+stylegan3/
+*.pt
+*.pkl
